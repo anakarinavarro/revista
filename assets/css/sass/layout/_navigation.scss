@@ -1,0 +1,19 @@
+.nav {
+    display: inline-block;
+    width: 100vw;
+    text-align: right;
+    li{
+        display: inline-block;
+    }
+}
+
+
+
+.nav ol li a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.input-menu {
+    border-radius: 30px;
+}
